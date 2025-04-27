@@ -93,23 +93,6 @@ nav {
     font-size: 0.9em;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-    list-style: none;
-    box-sizing: border-box;
-}
-
-
-body {
-    font-family: 'Arial', sans-serif;
-    line-height: 1.6;
-    background-color: #f8f8f8; 
-    color: #444;
-}
-
-
 .contenedor {
     width: 90%;
     max-width: 1000px;
